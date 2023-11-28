@@ -5,7 +5,7 @@
   </IonApp>
 </template>
 
-<script setup>
+<script type="module" setup>
 
 import { IonApp } from "@ionic/vue"
 
