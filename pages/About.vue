@@ -10,7 +10,7 @@
       <IonButton @click="router.back()">
 	    Go Home
       </IonButton>
-	  <br /> <br />Last updated: <b>27-11-2023</b><br />
+	  <br /> <br />Last updated: <b>28-11-2023</b><br />
 		  
     </IonContent>
   </IonPage>

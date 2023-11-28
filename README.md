@@ -1,4 +1,4 @@
-# Nuxt v3.0.0 Ionic Capacitor Starter Template
+# Nuxt v3.0.0 Ionic Capacitor Starter Template 
 ---
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
