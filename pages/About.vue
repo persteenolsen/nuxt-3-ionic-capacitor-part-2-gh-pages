@@ -15,7 +15,7 @@
     </IonContent>
   </IonPage>
 </template>
-<script type="module" setup lang="ts">
+<script setup lang="ts">
 import {
   IonPage,
   IonHeader,
