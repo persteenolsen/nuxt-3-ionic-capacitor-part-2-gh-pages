@@ -1,7 +1,7 @@
 
 export default defineNuxtConfig({
-    
-	 app: {
+    ssr: false,
+	app: {
        baseURL: '/nuxt-3-ionic-capacitor-part-2-gh-pages/'
    
    },
