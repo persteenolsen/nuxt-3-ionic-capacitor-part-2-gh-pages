@@ -23,7 +23,7 @@ jobs:
         run: npm ci
 
       - name: Build / Generate my App
-        run: npm run build && touch ./.output/public/.nojekyll # Must be NPM generate
+        run: npm run generate && touch ./.output/public/.nojekyll # Must be NPM generate
 
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4.3.3
