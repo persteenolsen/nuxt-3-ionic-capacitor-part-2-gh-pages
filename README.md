@@ -34,7 +34,12 @@ npm run preview
 
 Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for information about deployment
 
-Useuful links:
-- [Nuxt](https://nuxt.com/)
+Useuful links for building this application:
+- [Nuxt 3](https://nuxt.com/)
 - [Vue 3](https://vuejs.org)
 - [Inonic](https://ionicframework.com)
+- [Nuxt/Inonic](https://ionic.nuxtjs.org)
+- [Capacitor](https://capacitorjs.com)
+- [Nitro.js](https://nitro.unjs.io)
+- [Vite](https://vitejs.dev)
+- [The Ionic VS Code Extention](https://marketplace.visualstudio.com/items?itemName=ionic.ionic)

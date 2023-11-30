@@ -2,8 +2,8 @@
 export default defineNuxtConfig({
     ssr: false,
 	app: {
-       baseURL: '/nuxt-3-ionic-capacitor-part-2-gh-pages/',
-	   buildAssetDir: 'assets'
+          baseURL: '/nuxt-3-ionic-capacitor-part-2-gh-pages/',
+	      buildAssetDir: 'assets'
    
    },
     css: [
