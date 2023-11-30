@@ -1,0 +1,1 @@
+import{u as a}from"./composables.cbbc7d90.js";import{c as t,w as o,u as r,o as s,G as i,H as c}from"./entry.816c3e57.js";const m={__name:"ionicapp",setup(p){return a({viewport:"width=device-width, initial-scale=1, maximum-scale=1, viewport-fit=cover"}),(e,l)=>(s(),t(r(c),null,{default:o(()=>[i(e.$slots,"default")]),_:3}))}};export{m as default};
