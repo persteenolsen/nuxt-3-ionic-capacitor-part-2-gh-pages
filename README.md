@@ -32,4 +32,9 @@ Locally preview production build:
 npm run preview
 
 
-Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for more information.
+Checkout the [deployment documentation](https://v3.nuxtjs.org/docs/deployment) for information about deployment
+
+Useuful links:
+- [Nuxt](https://nuxt.com/)
+- [Vue 3](https://vuejs.org)
+- [Inonic](https://ionicframework.com)
