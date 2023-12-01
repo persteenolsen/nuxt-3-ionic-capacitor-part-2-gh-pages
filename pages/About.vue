@@ -11,10 +11,10 @@
 	
       <h1>This is the about page</h1>
       <IonButton @click="router.back()">
-	    Go Home
+	    Home
       </IonButton>
 	  
-	  <br /> <br />Last updated: <b>30-11-2023</b><br /><br /><br />
+	  <br /> <br />Last updated: <b>o1-12-2023</b><br /><br /><br />
 	  
 	  
 	  Some usefull links for building this application:
