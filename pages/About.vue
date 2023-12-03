@@ -2,19 +2,25 @@
   <IonPage>
   
     <IonHeader :translucent="true">
-      <IonToolbar>
-        <IonTitle>Home</IonTitle>
+	
+       <IonToolbar>
+        <IonTitle>
+		<a href="#" @click="router.push('/')" target="_top">Home</a> | 
+		<a href="#" @click="router.push('/about')" target="_top">About</a>
+		</IonTitle>
       </IonToolbar>
+
+	  
     </IonHeader>
 	
     <IonContent class="ion-padding">
 	
-      <h1>This is the about page</h1>
+      <h1>This is the ABOUT Page</h1>
       <IonButton @click="router.back()">
-	    Home
+	    Home Page
       </IonButton>
 	  
-	  <br /> <br />Last updated: <b>01-12-2023</b><br /><br /><br />
+	  <br /> <br />Last updated: <b>03-12-2023</b><br /><br /><br />
 	  
 	  
 	  Some usefull links for building this application:

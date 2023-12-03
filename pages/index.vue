@@ -4,8 +4,12 @@
     <IonHeader :translucent="true">
       <IonToolbar>
 	  
-        <IonTitle>Home</IonTitle>
-
+       <IonToolbar>
+        <IonTitle>
+		<a href="#" @click="router.push('/')" target="_top">Home</a> | 
+		<a href="#" @click="router.push('/about')" target="_top">About</a>
+		</IonTitle>
+      </IonToolbar>
 
       </IonToolbar>
 	  
@@ -13,7 +17,10 @@
 	
     <IonContent class="ion-padding">
 	
-      <h1>Nuxt 3 Ionic using Capacitor and ready for IOS and Android</h1>
+      <h1>This is the HOME Page</h1>
+	  
+	  <h4>Nuxt 3 Ionic using Capacitor and ready for IOS and Android</h4>
+	  
       <IonButton @click="router.push('/about')">
         About Page
       </IonButton>
