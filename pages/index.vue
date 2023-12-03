@@ -6,9 +6,9 @@
 	  
        <IonToolbar>
         <IonTitle>
-		<a href="#" @click="router.push('/')" target="_top">Home</a> | 
-		<a href="#" @click="router.push('/about')" target="_top">About</a>
-		</IonTitle>
+		     <a href="#" @click="router.push('/')" target="_top">Home</a> | 
+		     <a href="#" @click="router.push('/about')" target="_top">About</a>
+		    </IonTitle>
       </IonToolbar>
 
       </IonToolbar>
@@ -19,11 +19,12 @@
 	
       <h1>This is the HOME Page</h1>
 	  
-	  <h4>Nuxt 3 Ionic using Capacitor and ready for IOS and Android</h4>
-	  
-      <IonButton @click="router.push('/about')">
+	   <IonButton @click="router.push('/about')">
         About Page
       </IonButton>
+	  
+	    <h4>Nuxt 3 Ionic using Capacitor and ready for IOS and Android</h4>
+	      
 	  
     </IonContent>
 	

@@ -21,8 +21,7 @@
       </IonButton>
 	  
 	  <br /> <br />Last updated: <b>03-12-2023</b><br /><br /><br />
-	  
-	  
+	  	  
 	  Some usefull links for building this application:
    <ion-list>
    
