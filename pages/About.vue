@@ -20,7 +20,7 @@
 	    Home Page
       </IonButton>
 	  
-	  <br /> <br />Last updated: <b>03-12-2023</b><br /><br /><br />
+	  <br /> <br />Last updated: <b>06-12-2023</b><br /><br /><br />
 	  	  
 	  Some usefull links for building this application:
    <ion-list>
@@ -98,6 +98,7 @@ import {
   IonItem, 
   IonLabel, 
   IonList
+  
 } from "@ionic/vue"
 
 const router = useRouter();
