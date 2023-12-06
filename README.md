@@ -46,12 +46,12 @@ Useuful links for building this application:
 
 Deployment to GitHub Pages - Importants steps to take
 
-- The ropository at GitHub have the name: "nuxt-3-ionic-capacitor-part-2-gh-pages"
-- Make sure the repository have EEAD and WRITE permissons which can be found here: "settings - actions - generel"
+- The repository at GitHub have the name: "nuxt-3-ionic-capacitor-part-2-gh-pages"
+- Make sure the repository have READ and WRITE permissons which can be found here: "Settings - Actions - General"
 - Open the file "nuxt.config.ts" and add the statements "baseURL: '/nuxt-3-ionic-capacitor-part-2-gh-pages/'" and "buildAssetDir: 'assets'"
-- Then also add "ssr:fale" in the "nuxt.config.ts"
+- Then also add "ssr:false" in the "nuxt.config.ts"
 - Open the yml file inside the github action workflow: ".github/workflows/node.js.yml" and make sure it has the following line:
 - "run: npm run generate && touch ./.output/public/.nojekyll"
 - Now make a commit and go to "Settings - Actions - Pages" and select the branch just created "gh-pages" and click save
 - Now make a second commit and take a make sure the GH Actions make the build and deployment
-- Finaly go to your subdomain at GitHub Pages https://your-root-github-name.github.io/nuxt-3-ionic-capacitor-part-2-gh-pages/ to se the change online
+- Finally go to your subdomain at GitHub Pages https://your-root-github-name.github.io/nuxt-3-ionic-capacitor-part-2-gh-pages/ to se the change online
