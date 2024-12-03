@@ -5,6 +5,8 @@ Last updated: 03-12-2024
 
 Node Version: 18.20.5
 
+Note: There is an Error in VS Code in nuxt.config.ts ( buildAssetDir ) but it will build ...
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
