@@ -20,7 +20,7 @@
 	    Home Page
       </IonButton>
 	  
-	  <br /> <br />Last updated: <b>17-08-2024</b><br /><br /><br />
+	  <br /> <br />Last updated: <b>03-12-2024</b><br /><br /><br />
 	  	  
 	  Some usefull links for building this application:
    <ion-list>

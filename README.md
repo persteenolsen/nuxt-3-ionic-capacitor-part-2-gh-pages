@@ -1,6 +1,10 @@
 # Nuxt v3.0.0 Ionic Capacitor Starter Template 
 ---
 
+Last updated: 03-12-2024
+
+Node Version: 18.20.5
+
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
 ## Setup
